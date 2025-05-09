@@ -8,5 +8,9 @@
     "uid": 2,
     "expiry": "forever",
     "hwid": "c6:73:9c:83:93:86_SerialNumber_SerialNumber"
+  },
+  "WxPNthkpLR2MYZLF": {
+    "uid": 3,
+    "expiry": "forever"
   }
 }
