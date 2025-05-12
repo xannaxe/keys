@@ -44,6 +44,7 @@
   },
   "x8DBCQouQ2TRsR09": {
     "uid": 10,
-    "expiry": "forever"
+    "expiry": "forever",
+    "hwid": "00:d8:f6:d7:57:29__"
   }
 }
