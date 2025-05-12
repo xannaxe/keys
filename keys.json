@@ -32,5 +32,9 @@
     "uid": 7,
     "expiry": "forever",
     "hwid": "28:d0:ea:df:87:3d_SerialNumber_SerialNumber"
+  },
+  "QreMLpZ2DQXrbJOw": {
+    "uid": 8,
+    "expiry": "forever"
   }
 }
